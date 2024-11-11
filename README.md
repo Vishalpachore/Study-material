@@ -1,4 +1,4 @@
 # Study-material
 This is my first Git Repository.
 <br>
-Author - Vishal Pachore
+Author - Vishal (Singh Pachore)
